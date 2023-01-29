@@ -1,0 +1,13 @@
+C:\Users\om777\source\repos\framework\MyNewGame\MyNewGame.Game\bin\Debug\netstandard2.1\MyNewGame.Game.deps.json
+C:\Users\om777\source\repos\framework\MyNewGame\MyNewGame.Game\bin\Debug\netstandard2.1\MyNewGame.Game.dll
+C:\Users\om777\source\repos\framework\MyNewGame\MyNewGame.Game\bin\Debug\netstandard2.1\MyNewGame.Game.pdb
+C:\Users\om777\source\repos\framework\MyNewGame\MyNewGame.Game\bin\Debug\netstandard2.1\MyNewGame.Resources.dll
+C:\Users\om777\source\repos\framework\MyNewGame\MyNewGame.Game\bin\Debug\netstandard2.1\MyNewGame.Resources.pdb
+C:\Users\om777\source\repos\framework\MyNewGame\MyNewGame.Game\obj\Debug\netstandard2.1\MyNewGame.Game.csproj.AssemblyReference.cache
+C:\Users\om777\source\repos\framework\MyNewGame\MyNewGame.Game\obj\Debug\netstandard2.1\MyNewGame.Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\om777\source\repos\framework\MyNewGame\MyNewGame.Game\obj\Debug\netstandard2.1\MyNewGame.Game.AssemblyInfoInputs.cache
+C:\Users\om777\source\repos\framework\MyNewGame\MyNewGame.Game\obj\Debug\netstandard2.1\MyNewGame.Game.AssemblyInfo.cs
+C:\Users\om777\source\repos\framework\MyNewGame\MyNewGame.Game\obj\Debug\netstandard2.1\MyNewGame.Game.csproj.CoreCompileInputs.cache
+C:\Users\om777\source\repos\framework\MyNewGame\MyNewGame.Game\obj\Debug\netstandard2.1\MyNewGame.Game.csproj.CopyComplete
+C:\Users\om777\source\repos\framework\MyNewGame\MyNewGame.Game\obj\Debug\netstandard2.1\MyNewGame.Game.dll
+C:\Users\om777\source\repos\framework\MyNewGame\MyNewGame.Game\obj\Debug\netstandard2.1\MyNewGame.Game.pdb

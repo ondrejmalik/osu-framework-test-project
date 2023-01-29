@@ -1,0 +1,10 @@
+C:\Users\om777\source\repos\framework\MyNewGame\MyNewGame.Resources\bin\Debug\netstandard2.1\MyNewGame.Resources.deps.json
+C:\Users\om777\source\repos\framework\MyNewGame\MyNewGame.Resources\bin\Debug\netstandard2.1\MyNewGame.Resources.dll
+C:\Users\om777\source\repos\framework\MyNewGame\MyNewGame.Resources\bin\Debug\netstandard2.1\MyNewGame.Resources.pdb
+C:\Users\om777\source\repos\framework\MyNewGame\MyNewGame.Resources\obj\Debug\netstandard2.1\MyNewGame.Resources.csproj.AssemblyReference.cache
+C:\Users\om777\source\repos\framework\MyNewGame\MyNewGame.Resources\obj\Debug\netstandard2.1\MyNewGame.Resources.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\om777\source\repos\framework\MyNewGame\MyNewGame.Resources\obj\Debug\netstandard2.1\MyNewGame.Resources.AssemblyInfoInputs.cache
+C:\Users\om777\source\repos\framework\MyNewGame\MyNewGame.Resources\obj\Debug\netstandard2.1\MyNewGame.Resources.AssemblyInfo.cs
+C:\Users\om777\source\repos\framework\MyNewGame\MyNewGame.Resources\obj\Debug\netstandard2.1\MyNewGame.Resources.csproj.CoreCompileInputs.cache
+C:\Users\om777\source\repos\framework\MyNewGame\MyNewGame.Resources\obj\Debug\netstandard2.1\MyNewGame.Resources.dll
+C:\Users\om777\source\repos\framework\MyNewGame\MyNewGame.Resources\obj\Debug\netstandard2.1\MyNewGame.Resources.pdb
